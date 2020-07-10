@@ -1,5 +1,5 @@
 import * as jwt from 'jsonwebtoken';
-import { jwtConstants } from './jwt.constants';
+import { jwtConstants } from '../jwt.constants';
 import { UnauthorizedException } from '@nestjs/common';
 
 // JUST FOR TESTING
